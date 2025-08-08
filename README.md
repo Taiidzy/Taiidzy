@@ -1,5 +1,5 @@
 <!-- Заголовок с баннером (можно заменить картинку на свою) -->
-![Header](https://i.imgur.com/Eu4jM2P.png)
+![Header](https://imgur.com/a/bhRNvB1)
 
 <!-- Анимированный текст -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=1000&lines=Привет,+я+Taiidzy!;Flutter+%2B+Dart+разработчик;Пишу+ещё+на+JS,+TS,+Python;Создаю+аниме-приложения+и+веб-сервисы)](https://git.io/typing-svg)
@@ -28,4 +28,4 @@
 ---
 
 ## 🌐 Портфолио
-[![Portfolio](https://img.shields.io/badge/🌐%20Посмотреть%20портфолио-blue?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Посмотреть%20портфолио-blue?style=for-the-badge)](https://taiidzy.github.io/Portfolio/)
