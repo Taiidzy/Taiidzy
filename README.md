@@ -29,8 +29,3 @@
 
 ## 🌐 Портфолио
 [![Portfolio](https://img.shields.io/badge/🌐%20Посмотреть%20портфолио-blue?style=for-the-badge)](https://your-portfolio-link.com)
-
----
-
-<!-- Анимированная змейка коммитов -->
-![Snake animation](https://github.com/Taiidzy/Taiidzy/blob/output/github-contribution-grid-snake.svg)
